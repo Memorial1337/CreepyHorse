@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="creepyhorse"
+version="1.0.0"
+displayName="Creepy Horse"
+logoFile="mod_icon.png"
+authors="PKFL & LookOut3D"
+description='''adds the creepy horse from LookOut's series to your world.
+Multiplayer support included.'''
+
+[[dependencies.creepyhorse]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.creepyhorse]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.creepyhorse]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.8.3,)"
+ordering="AFTER"
+side="BOTH"

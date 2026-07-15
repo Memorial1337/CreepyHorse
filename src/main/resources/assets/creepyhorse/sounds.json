@@ -1,0 +1,25 @@
+{
+  "hide_start": { "sounds": [ { "name": "creepyhorse:hide_start", "stream": true } ] },
+  "hide2": { "sounds": [ { "name": "creepyhorse:hide2", "stream": true } ] },
+  "hide": { "sounds": [ { "name": "creepyhorse:hide", "stream": true } ] },
+  "brushtheflies": { "sounds": [ { "name": "creepyhorse:brushtheflies", "stream": true } ] },
+  "flies_task": { "sounds": [ { "name": "creepyhorse:flies_task", "stream": true } ] },
+  "feedthehorse": { "sounds": [ { "name": "creepyhorse:feedthehorse", "stream": true } ] },
+  "second_task": { "sounds": [ { "name": "creepyhorse:2nd_task", "stream": true } ] },
+  "feedthehorse2": { "sounds": [ { "name": "creepyhorse:feedthehorse2", "stream": true } ] },
+  "neck_movement": { "sounds": [ { "name": "creepyhorse:neck_movement", "stream": true } ] },
+  "stalk": { "sounds": [ { "name": "creepyhorse:stalk", "stream": true } ] },
+  "horse_appear": { "sounds": [ { "name": "creepyhorse:horse_appear", "stream": true } ] },
+  "horse_screaming2": { "sounds": [ { "name": "creepyhorse:horse_screaming2", "stream": true } ] },
+  "horse1": { "sounds": [ { "name": "creepyhorse:horse1", "stream": true } ] },
+  "horse_start": { "sounds": [ { "name": "creepyhorse:horse_start", "stream": true } ] },
+  "brushrequired": { "sounds": [ { "name": "creepyhorse:brushrequired", "stream": true } ] },
+  "success": { "sounds": [ { "name": "creepyhorse:success", "stream": true } ] },
+  "horse_chase": { "sounds": [ { "name": "creepyhorse:horse_chase", "stream": true } ] },
+  "killplayer": { "sounds": [ { "name": "creepyhorse:killplayer", "stream": true } ] },
+  "penalty": { "sounds": [ { "name": "creepyhorse:penalty", "stream": true } ] },
+  "timeisup": { "sounds": [ { "name": "creepyhorse:timeisup", "stream": true } ] },
+  "enter_in": { "sounds": [ { "name": "creepyhorse:enter_in", "stream": true } ] },
+  "horse_scream": { "sounds": [ { "name": "creepyhorse:horse_scream", "stream": true } ] }
+  ,"new_intro": { "sounds": [ { "name": "creepyhorse:new_intro", "stream": true } ] }
+}
